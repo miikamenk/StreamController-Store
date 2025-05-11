@@ -277,5 +277,11 @@
         "commits": {
             "1.5.0-beta.10": "dd2e813ca425c361b547334576ff54d6ba6c249b"
         }
+    },
+        {
+        "url": "https://github.com/miikamenk/com_miikamenk_VTubeStudio",
+        "commits": {
+            "1.5.0-beta.10": "edbb3dde67e3a03a8e2078b95b3422d4bb498017"
+        }
     }
 ]
